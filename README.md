@@ -35,7 +35,7 @@ The following are feature sets that use normalised frequency counts:
 * `verb`- uses NLTK part-of-speach tagged words, selects only verb tagged words, to generate features based on those tagged words
 * `adj`- uses NLTK part-of-speach tagged words, selects only adjective tagged words, to generate features based on those tagged words
 * `adjverb` - uses NLTK part-of-speach tagged words, selects only verb and adjective tagged words, to generate features based on those tagged words
-* 
+
 The following are feature sets that use pretrained embedding models
 
 * `embedding_glove` - uses the pretrained model `glove-twitter-25` to generate features
