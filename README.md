@@ -4,6 +4,7 @@ Machine learning text categorisation for bbc dataset
 2. Upload the file [datasets_coursework1.zip](https://github.com/TeaWithLucas/ML-text-categorisation/blob/main/datasets_coursework1.zip) by going to the file section on the left then clicking the upload file button as encircled in the following screenshot
 
 ![image](https://user-images.githubusercontent.com/18538046/115248940-0df33480-a120-11eb-9b40-07bd76789f88.png)
+
 3. (Optional) Change any of the Setting as you desire in the setting heading (details below)
 4. Run all the code using Runtime > Run all (Ctrl+F9) or run all the code sequentially manually
 5. View the execution section to see the excution process and outputs and the subheading Evaluation for the final results
