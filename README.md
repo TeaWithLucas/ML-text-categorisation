@@ -5,11 +5,11 @@ Machine learning text categorisation for bbc dataset
 
 ![image](https://user-images.githubusercontent.com/18538046/115248940-0df33480-a120-11eb-9b40-07bd76789f88.png)
 
-3. (Optional) Change any of the Setting as you desire in the setting heading (details below)
+3. *(Optional) Change any of the Setting as you desire in the setting heading (details below)*
 4. Run all the code using Runtime > Run all (Ctrl+F9) or run all the code sequentially manually
 5. View the execution section to see the excution process and outputs and the subheading Evaluation for the final results
-6. (Optional) Adjust any of the Settings as you desire
-7. (Optional) Run the Settings and Execution section and review the results
+6. *(Optional) Adjust any of the Settings as you desire*
+7. *(Optional) Run the Settings and Execution section and review the results*
 
 # Settings
 In the setting section are various variables which you can use to change how the program works, they are as follows
