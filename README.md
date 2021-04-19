@@ -36,7 +36,7 @@ The following are feature sets that use normalised frequency counts:
 * `adj`- uses NLTK part-of-speach tagged words, selects only adjective tagged words, to generate features based on those tagged words
 * `adjverb` - uses NLTK part-of-speach tagged words, selects only verb and adjective tagged words, to generate features based on those tagged words
 The following are feature sets that use pretrained embedding models
-* `embedding_glove` - uses the pretrained model ‘glove-twitter-25’ to generate features
-* `embedding_fasttext` - uses the pretrained model ‘fasttext-wiki-news-subwords-300’ to generate features
-* `embedding_word2vec` - uses the pretrained model ‘word2vec-google-news-300’ to generate features
+* `embedding_glove` - uses the pretrained model `glove-twitter-25` to generate features
+* `embedding_fasttext` - uses the pretrained model `fasttext-wiki-news-subwords-300` to generate features
+* `embedding_word2vec` - uses the pretrained model `word2vec-google-news-300` to generate features
 any embedding models listed at [https://github.com/RaRe-Technologies/gensim-data#models](https://github.com/RaRe-Technologies/gensim-data#models) can be used using the format `embedding_[model name]`
